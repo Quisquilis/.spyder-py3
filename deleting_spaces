@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar  1 14:39:07 2021
+
+@author: yimingteng
+"""
+
+name="   wsw wfa "
+print(name.lstrip())
+print(name.rstrip())
+print(name.strip())

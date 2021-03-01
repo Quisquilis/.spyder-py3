@@ -12,10 +12,19 @@ while i<4:
     print(list[i])
     i=i+1
 i=0
+
 print(list.pop(2)+" can't come, but Newton will")
 list.insert(2, 'Newton')
 print("The list is:")
 while i<4:
     print(list[i])
     i=i+1
+i=0
 
+print("I've found a bigger table! We gonna invite 3 more guests!")
+list.insert(0, 'Singer')
+list.insert(2,'Atyah')
+list.append('Laplace')
+while i<7:
+    print(list[i])
+    i=i+1

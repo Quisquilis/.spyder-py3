@@ -8,3 +8,4 @@ Created on Mon Mar  1 14:54:23 2021
 
 num=7
 print("My favourite number is "+str(num))
+import this

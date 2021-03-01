@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar  1 14:10:05 2021
+
+@author: yimingteng
+"""
+
+name="dAvid TOmpson"
+print(name.lower())
+print(name.upper())
+print(name.title())

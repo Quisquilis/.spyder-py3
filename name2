@@ -6,3 +6,7 @@ Created on Mon Mar  1 15:09:33 2021
 @author: yimingteng
 """
 
+names=['Li', 'Zhao', 'Wu']
+print(names[0])
+print(names[2])
+print(names[1])
